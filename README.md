@@ -54,8 +54,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tabrejshamsalam/tabrejshamsalam/output/github-contribution-grid-snake.svg" />-->
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabrejshamsalam&show_icons=true&locale=en&layout=compact" alt="tabrejshamsalam" /></p>
-  
+
   <br/><br/><br/>
 </div>
 
@@ -64,14 +63,18 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-tabrejshamsalam.vercel.app/?user=tabrejshamsalam&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<!--  <img width=390 src="https://github-readme-streak-stats-tabrejshamsalam.vercel.app/?user=tabrejshamsalam&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-tabrejshamsalam.vercel.app/api?username=tabrejshamsalam&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-tabrejshamsalam.vercel.app/api/top-langs/?username=tabrejshamsalam&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tabrejshamsalam&show_icons=true&locale=en" alt="tabrejshamsalam" /></p>
+  <img width=325 align="center" src="https://github-readme-stats-tabrejshamsalam.vercel.app/api/top-langs/?username=tabrejshamsalam&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tabrejshamsalam&show_icons=true&locale=en" alt="tabrejshamsalam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabrejshamsalam&show_icons=true&locale=en&layout=compact" alt="tabrejshamsalam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabrejshamsalam&" alt="tabrejshamsalam" /></p>
+
+    
 </div>
 
-<br/><br/>
+<br/><br/> 
 
 <hr/>
 
