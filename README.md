@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **DSA, Javascript, Node.Js**
+ 🌱 I’m currently learning **Data Analytics, Artificial Intelligence, Machine Learning**
 
 💬 Ask me about **C/C++, Java, Python... or anything [here](https://github.com/tabrejshamsalam/tabrejshamsalam/issues)**
 
